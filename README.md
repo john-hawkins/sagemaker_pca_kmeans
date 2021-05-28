@@ -1,1 +1,6 @@
-# sagemaker_pca_kmeans
+# Sagemaker PCA Kmeans
+
+Example Notebook showing the Sagemaker API for PCA and K Means
+
+
+
